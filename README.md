@@ -4,6 +4,12 @@ A faithful TypeScript recreation of Atari's **Night Driver** (1976), the pioneer
 
 Built with Canvas 2D and Web Audio API — zero runtime dependencies, no sprite sheets, no audio files. All graphics and sounds are generated procedurally.
 
+<p align="center">
+  <img src="docs/screenshot_attract.png" width="280" alt="Attract screen" />
+  <img src="docs/screenshot_gameplay.png" width="280" alt="Gameplay" />
+  <img src="docs/screenshot_action.png" width="280" alt="Action" />
+</p>
+
 ## Play
 
 ```bash
